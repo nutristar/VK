@@ -1,0 +1,7 @@
+.git-key
+.git-key.pub
+.*.swp
+.*.swo
+.*.lock
+.*.lock.*
+.*.~lock.*
